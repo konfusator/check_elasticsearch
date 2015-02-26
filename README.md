@@ -3,7 +3,7 @@ check_elasticsearch
 
 This is a simple Icinga/Nagios/… plugin for checking an
 [Elasticsearch](http://www.elasticsearch.org/) cluster written in Go
-using [fractalcat/nagiosplugin].
+using [fractalcat/nagiosplugin](https://github.com/fractalcat/nagiosplugin).
 
 It serves three purposes:
 
